@@ -139,8 +139,8 @@ Model performance is evaluated using standard Automatic Speech Recognition metri
 
 | Metric | Score |
 |---------|-------|
-| Word Error Rate (WER) | XX.XX% |
-| BLEU Score | XX.XX |
+| Word Error Rate (WER) | 27.9517% |
+| BLEU Score | 43.882593% |
 
 The evaluation pipeline can easily be extended to include additional metrics such as Character Error Rate (CER) or language-specific evaluations.
 
